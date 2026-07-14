@@ -1,4 +1,4 @@
-# PT Rumi Kultura Utopia
+PT Rumi Kultura Utopia
 
 Welcome to the official GitHub organization of RUMIKU. We build digital platforms, automated tools, and scalable ecosystems that bridge modern technology with global fandom culture.
 
